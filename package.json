@@ -22,6 +22,7 @@
   "homepage": "https://github.com/AlfieriChou/microCluster#readme",
   "dependencies": {
     "micro": "^9.3.3",
-    "serve-micro-cluster": "^2.1.0"
+    "serve-micro-cluster": "^2.1.0",
+    "svg-captcha": "^1.3.11"
   }
 }
