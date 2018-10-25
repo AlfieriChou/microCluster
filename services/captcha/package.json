@@ -1,0 +1,19 @@
+{
+  "name": "captcha",
+  "version": "1.0.0",
+  "description": "micro",
+  "main": "server.js",
+  "scripts": {
+    "start": "micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "micro"
+  ],
+  "author": "AlfieriChou",
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^9.3.3",
+    "svg-captcha": "^1.3.11"
+  }
+}

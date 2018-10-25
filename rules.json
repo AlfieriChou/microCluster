@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "pathname": "/captcha",
+      "dest": "./services/captcha/server.js"
+    },
+    {
+      "pathname": "/hello",
+      "dest": "./services/hello/server.js"
+    }
+  ]
+}

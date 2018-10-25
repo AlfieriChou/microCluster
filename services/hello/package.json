@@ -1,0 +1,18 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "micro services",
+  "main": "server.js",
+  "scripts": {
+    "start": "micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "micro"
+  ],
+  "author": "AlfieriChou",
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^9.3.3"
+  }
+}
